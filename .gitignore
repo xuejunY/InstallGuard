@@ -1,0 +1,23 @@
+# Python 环境与缓存
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 本地日志与临时文件
+*.log
+*.tmp
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
